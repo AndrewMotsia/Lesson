@@ -4,7 +4,7 @@ int main()
 {
 	int age;
 	double weight;
-	std::cout << "input age: ";
+	std::cout << "input age (Year and month): ";
 	std::cin >> age;
 	std::cout << "input weigth: ";
 	std::cin >> weight;
